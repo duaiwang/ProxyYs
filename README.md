@@ -9,4 +9,4 @@
 config.ini里进行配置 均有说明
 
 切换模式可以选择：1.每个请求都重新提取ip 2.根据上一次的时间检测是否切换
-<br /><img src="/web.png" style="max-width: 100%;"></a></p>
+<br /><img src="web.png" style="max-width: 100%;"></a></p>
