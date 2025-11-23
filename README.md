@@ -9,4 +9,4 @@
 config.ini里进行配置 均有说明
 
 切换模式可以选择：1.每个请求都重新提取ip 2.根据上一次的时间检测是否切换
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/honmashironeko/ProxyCat/blob/main/assets/%E9%A1%B9%E7%9B%AE%E5%8E%9F%E7%90%86%E5%9B%BE.png"><img src="/honmashironeko/ProxyCat/raw/main/assets/%E9%A1%B9%E7%9B%AE%E5%8E%9F%E7%90%86%E5%9B%BE.png" alt="项目原理图" style="max-width: 100%;"></a></p>
+<img src="/duaiwang/ProxyYs/refs/heads/main/web.png" style="max-width: 100%;"></a></p>
